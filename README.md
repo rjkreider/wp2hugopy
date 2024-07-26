@@ -8,4 +8,4 @@ Original /wp-content/uploads is changed to /uploads.
 
 Markdown files are output into a posts/ folder.
 
-This does not handle comments, or other custom post metadata.  Feel free to add things.
+This does not handle comments, shortcodes or other custom post metadata.  Feel free to add things.
